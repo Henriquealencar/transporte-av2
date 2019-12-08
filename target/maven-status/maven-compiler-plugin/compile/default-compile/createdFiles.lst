@@ -1,0 +1,10 @@
+br\com\domain\Student\Student.class
+br\com\domain\Worker\Worker.class
+br\com\execut\Executavel.class
+br\com\connection\Connection.class
+br\com\vraptor\AuthController.class
+br\com\domain\Student\Endereco.class
+br\com\controller\StudentController.class
+br\com\DAO\StudentDAO.class
+br\com\components\UserSession.class
+br\com\controller\IndexController.class
